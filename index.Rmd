@@ -1,0 +1,43 @@
+---
+title: "MyLabJournal"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **My Lab Journal**
+
+This is Lennay Chapman's website, the building of which was homework #1.
+
+## Summary
+
+Things I would like to use this for:
+
+1) To create websites for the classes I teach,
+
+2) For my own professional website, prior to going on the market,
+
+3) To create a writing portfolio. 
+
+
+</div>
+<div class="col-sm-6">
+
+### [Cognitive Psychology Fall 2018](https://crumplab.github.io)
+
+<a href = "https://crumplab.github.io">
+![](images/logo.png)
+</a>
+</div>
